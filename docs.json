@@ -35,7 +35,8 @@
             "pages": [
               "en/latest/getting_started",
               "en/latest/installation",
-              "en/latest/api_key"
+              "en/latest/api_key",
+              "en/latest/remote_inference"
             ]
           },
           {
